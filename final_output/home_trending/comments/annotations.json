@@ -1,0 +1,74 @@
+{
+  "comments": [
+    {
+      "canvasID": "s-d12245cc-1680-458d-89dd-4f0d7fb22724",
+      "elementID": "s-chart_2",
+      "canvasURL": "screens/d12245cc-1680-458d-89dd-4f0d7fb22724",
+      "author": "ram",
+      "authorID" : 0,
+      "code": 1,
+      "parentCode": null,
+      "content": "Where am I standing wrt my health.\nWe need to also have a gamified board which would make the user to visit daily",
+      "timestamp": "1453498064699",
+      "date": "22-Jan-2016 16:27",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-d12245cc-1680-458d-89dd-4f0d7fb22724",
+      "elementID": "s-tiles",
+      "canvasURL": "screens/d12245cc-1680-458d-89dd-4f0d7fb22724",
+      "author": "ram",
+      "authorID" : 0,
+      "code": 2,
+      "parentCode": null,
+      "content": "What I have to do. \nIt can have only max of two items. We should avoid choice overload and be specific",
+      "timestamp": "1453498084272",
+      "date": "22-Jan-2016 16:28",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "",
+      "elementID": "",
+      "canvasURL": "",
+      "author": "ram",
+      "authorID" : 0,
+      "code": 3,
+      "parentCode": null,
+      "content": "I will help you answer how. A viritual coach always interactive with user and when he is unable to solve he will hand over it to real coach.",
+      "timestamp": "1453498100066",
+      "date": "22-Jan-2016 16:28",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "s-d12245cc-1680-458d-89dd-4f0d7fb22724",
+      "elementID": "s-Label-blue_2",
+      "canvasURL": "screens/d12245cc-1680-458d-89dd-4f0d7fb22724",
+      "author": "ram",
+      "authorID" : 0,
+      "code": 4,
+      "parentCode": null,
+      "content": "Users tend to know what others do and follow the same when they are unable to decide and they dont like the recommendations",
+      "timestamp": "1453531508045",
+      "date": "23-Jan-2016 01:45",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "",
+      "elementID": "",
+      "canvasURL": "",
+      "author": "ram",
+      "authorID" : 0,
+      "code": 5,
+      "parentCode": null,
+      "content": "I will help you answer how. A viritual coach always interactive with user and when he is unable to solve he will hand over it to real coach.",
+      "timestamp": "1453531746607",
+      "date": "23-Jan-2016 01:49",
+      "fileName": "",
+      "isRead": true
+    }
+  ]
+}
